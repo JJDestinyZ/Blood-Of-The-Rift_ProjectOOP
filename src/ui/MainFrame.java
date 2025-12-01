@@ -3,6 +3,9 @@ package ui;
 import java.awt.*;
 import java.util.Random;
 import javax.swing.*;
+import ui.Characters.*;
+import ui.Worlds.*;
+import ui.Characters.Character;
 
 public class MainFrame extends JFrame {
     private static final long serialVersionUID = 1L;
